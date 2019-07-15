@@ -1,2 +1,2 @@
-FLASK_APP=flaskblog.py
+FLASK_APP=blog.py
 FLASK_ENV=development
